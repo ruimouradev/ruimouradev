@@ -28,13 +28,18 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](...)](https://www.linkedin.com/in/rui-moura/)
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/rui-moura/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
 
-![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruimouradev&show_icons=true&theme=dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&theme=dark)
+![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruimouradev&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&theme=github_dark&hide_border=true)
 
 ⭐️ *"Keep learning. Keep building. Keep improving."*
