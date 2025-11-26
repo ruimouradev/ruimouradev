@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Rui Moura  
 
-🎓 42 Lisboa student  
-💻 Learning **C** and **Python**  
-🧠 Focused on understanding how things work under the hood  
-⚙️ Passionate about systems, logic, and building clean, reliable software  
+🎓 Student at [42 Lisboa](https://www.42lisboa.com/)  
+💻 Currently learning **C** and **Python**  
+📊 Background in **Finance**  
+⚙️ Passionate about problem-solving, systems, and writing clean, reliable code  
 
 ---
 
-### ⚙️ Tools & Technologies
+### 🧰 Tools & Technologies
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
@@ -23,7 +23,7 @@
 | [libft](https://github.com/ruimouradev/libft) | Reimplementation of standard C library | ✅ Completed |
 | [get_next_line](https://github.com/ruimouradev/get_next_line) | Function to read a line from a file descriptor | ✅ Completed |
 | [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom implementation of `printf` | ✅ Completed |
-| push_swap | Sorting algorithm project with stacks and limited operations | 🚧 In progress |
+| push_swap | Sorting algorithm project using stacks and limited operations | 🚧 In progress |
 
 ---
 
@@ -38,14 +38,4 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruimouradev&show_icons=true&theme=github_dark&hide_border=true" alt="Rui's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  ⭐️ <em>"Keep learning. Keep building. Keep improving."</em>
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruimouradev&show_icons=true&theme_
