@@ -28,11 +28,7 @@
 ---
 
 ### 📫 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/rui-moura/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+You can also find me on [LinkedIn](https://www.linkedin.com/in/rui-moura/).
 
 ---
 
