@@ -28,8 +28,13 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-Rui%20Moura-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rui-moura/)
+[![LinkedIn](...)](https://www.linkedin.com/in/rui-moura/)
 
 ---
+
+### 📊 GitHub Stats
+
+![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruimouradev&show_icons=true&theme=dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&theme=dark)
 
 ⭐️ *"Keep learning. Keep building. Keep improving."*
