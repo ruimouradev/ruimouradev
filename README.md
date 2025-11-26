@@ -33,7 +33,3 @@
 ---
 
 ⭐️ *"Keep learning. Keep building. Keep improving."*
-
----
-
-⭐️ *"Keep learning. Keep building. Keep improving."*
