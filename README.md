@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Connect with me
-You can also find me on [LinkedIn](https://www.linkedin.com/in/rui-moura/).
+Find me on [LinkedIn](https://www.linkedin.com/in/rui-moura/).
 
 ---
 
