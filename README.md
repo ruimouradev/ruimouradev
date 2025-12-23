@@ -34,7 +34,6 @@
 | A-Maze-ing | Configurable maze generator with visual output and reusable generation logic | 🚧 In progress |
 
 > 🧠 **A-Maze-ing** is a Python project focused on algorithmic maze generation, configuration parsing, error handling, and visualization.  
-> The generation logic is designed to be reusable as a standalone module.
 
 ---
 
