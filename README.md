@@ -3,7 +3,7 @@
 🎓 Student at [42 Lisboa](https://www.42lisboa.com/)  
 💻 Currently learning **C** and **Python**  
 📊 Background in **Finance**  
-⚙️ Passionate about problem-solving, systems, and writing clean, reliable code  
+⚙️ Interested in problem-solving through collaboration, and in understanding systems deeply by reasoning from first principles
 
 ---
 
@@ -53,5 +53,5 @@ Find me on [LinkedIn](https://www.linkedin.com/in/rui-moura/).
 ---
 
 <p align="center">
-  ⭐️ <em>"Keep learning. Keep building. Keep improving."</em>
+  ⭐️ <em>"Understanding is not assumed — it is constructed."</em>
 </p>
