@@ -23,7 +23,8 @@
 | [libft](https://github.com/ruimouradev/libft) | Reimplementation of standard C library | ✅ Completed |
 | [get_next_line](https://github.com/ruimouradev/get_next_line) | Function to read a line from a file descriptor | ✅ Completed |
 | [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom implementation of `printf` | ✅ Completed |
-| push_swap | Sorting algorithm project using stacks and limited operations | 🚧 In progress |
+| [push_swap](https://github.com/ruimouradev/push_swap) | Sorting data using two stacks and a limited set of operations | ✅ Completed |
+
 
 ---
 
