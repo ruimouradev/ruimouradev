@@ -27,7 +27,7 @@
 
 ---
 
-## 🐍 Python Projects
+## 🐍 42 Projects — Python
 
 | Project | Description | Status |
 |--------|-------------|--------|
