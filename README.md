@@ -16,15 +16,25 @@
 
 ---
 
-### 🧩 42 Projects
+## 🧩 42 Projects — C
 
 | Project | Description | Status |
-|----------|--------------|---------|
-| [libft](https://github.com/ruimouradev/libft) | Reimplementation of standard C library | ✅ Completed |
-| [get_next_line](https://github.com/ruimouradev/get_next_line) | Function to read a line from a file descriptor | ✅ Completed |
+|--------|-------------|--------|
+| [libft](https://github.com/ruimouradev/libft) | Reimplementation of the standard C library | ✅ Completed |
+| [get_next_line](https://github.com/ruimouradev/get_next_line) | Read a line from a file descriptor | ✅ Completed |
 | [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom implementation of `printf` | ✅ Completed |
 | [push_swap](https://github.com/ruimouradev/push_swap) | Sorting data using two stacks and a limited set of operations | ✅ Completed |
 
+---
+
+## 🐍 Python Projects
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| A-Maze-ing | Configurable maze generator with visual output and reusable generation logic | 🚧 In progress |
+
+> 🧠 **A-Maze-ing** is a Python project focused on algorithmic maze generation, configuration parsing, error handling, and visualization.  
+> The generation logic is designed to be reusable as a standalone module.
 
 ---
 
