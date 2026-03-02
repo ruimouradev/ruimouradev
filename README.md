@@ -1,52 +1,56 @@
-# Rui Moura
+# 👋 Hi, I'm Rui Moura
 
-Student at 42 Lisboa with a background in Finance, transitioning into Software Development.
+🎓 Student at 42 Lisboa  
+📊 Background in Finance  
+💻 Transitioning into Software Engineering  
 
-I build systems with a strong focus on algorithmic reasoning, performance, and structured problem solving.  
-Currently strengthening low-level foundations in C while exploring Python for simulation and data-oriented systems.
+I’m particularly interested in how systems behave under constraints —  
+from low-level memory handling in C to multi-agent simulations and algorithmic optimization in Python.
 
----
-
-## Core Stack
-
-C • Python • Git • Linux • Bash
+My long-term focus is AI and data-driven systems, built on strong computational foundations.
 
 ---
 
-## 42 Projects
+## 🧠 What I’m Working On
+
+- Strengthening low-level fundamentals in C  
+- Practicing data structures & algorithms (LeetCode)  
+- Building simulation and routing systems in Python  
+- Exploring optimization and multi-agent problems  
+
+---
+
+## 🛠 Projects
 
 ### C
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ Completed |
-| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader with buffered I/O | ✅ Completed |
-| [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom implementation of `printf` with variadic handling | ✅ Completed |
-| [push_swap](https://github.com/ruimouradev/push_swap) | Constrained sorting using two stacks with algorithmic optimization | ✅ Completed |
+| [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ |
+| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader | ✅ |
+| [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom `printf` implementation | ✅ |
+| [push_swap](https://github.com/ruimouradev/push_swap) | Constrained sorting with algorithmic optimization | ✅ |
 
 ### Python
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Algorithmic maze generator with configurable logic and visualization | ✅ Completed |
-| Fly-in | Multi-drone routing, scheduling, and constrained graph simulation | 🚧 In progress |
+| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Configurable maze generator with visualization | ✅ |
+| Fly-in | Capacity-constrained drone routing and scheduling simulation | 🚧 |
 
 ---
 
-## Current Focus
+## 🔎 Interests
 
-- Algorithmic problem solving (LeetCode practice)  
-- Constrained graph traversal and simulation systems  
-- Optimization and scheduling under capacity constraints  
-- Foundations for AI and data-driven systems  
+Artificial Intelligence • Optimization • Data Systems • Algorithms • Quantitative Reasoning
 
 ---
 
-## Links
+## 🌐 Connect
 
 - LinkedIn: https://www.linkedin.com/in/rui-moura/  
 - LeetCode: https://leetcode.com/u/ruimouradev/  
 
 ---
 
-> Understanding is not assumed — it is constructed.
+> “Understanding is not assumed — it is constructed.”
