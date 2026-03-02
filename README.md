@@ -20,10 +20,10 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [libft](https://github.com/ruimouradev/libft) | Reimplementation of the standard C library | ✅ Completed |
-| [get_next_line](https://github.com/ruimouradev/get_next_line) | Read a line from a file descriptor | ✅ Completed |
+| [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ Completed |
+| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader | ✅ Completed |
 | [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom implementation of `printf` | ✅ Completed |
-| [push_swap](https://github.com/ruimouradev/push_swap) | Sorting data using two stacks and a limited set of operations | ✅ Completed |
+| [push_swap](https://github.com/ruimouradev/push_swap) | Constrained sorting using two stacks | ✅ Completed |
 
 ---
 
@@ -31,9 +31,8 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| A-Maze-ing | Configurable maze generator with visual output and reusable generation logic | 🚧 In progress |
-
-> 🧠 **A-Maze-ing** is a Python project focused on algorithmic maze generation, configuration parsing, error handling, and visualization.  
+| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Algorithmic maze generator with visualization and configurable logic | ✅ Completed |
+| Fly-in | Multi-drone routing and constrained graph simulation system | 🚧 In progress |
 
 ---
 
