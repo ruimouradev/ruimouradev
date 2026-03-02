@@ -1,56 +1,52 @@
-# 👋 Hi, I'm Rui Moura  
+# Rui Moura
 
-🎓 Student at [42 Lisboa](https://www.42lisboa.com/)  
-💻 Currently learning **C** and **Python**  
-📊 Background in **Finance**  
-⚙️ Interested in problem-solving through collaboration, and in understanding systems deeply by reasoning from first principles
+Student at 42 Lisboa with a background in Finance, transitioning into Software Development.
 
----
-
-### 🧰 Tools & Technologies
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash)
+I build systems with a strong focus on algorithmic reasoning, performance, and structured problem solving.  
+Currently strengthening low-level foundations in C while exploring Python for simulation and data-oriented systems.
 
 ---
 
-## 🧩 42 Projects — C
+## Core Stack
+
+C • Python • Git • Linux • Bash
+
+---
+
+## 42 Projects
+
+### C
 
 | Project | Description | Status |
 |--------|-------------|--------|
 | [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ Completed |
-| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader | ✅ Completed |
-| [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom implementation of `printf` | ✅ Completed |
-| [push_swap](https://github.com/ruimouradev/push_swap) | Constrained sorting using two stacks | ✅ Completed |
+| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader with buffered I/O | ✅ Completed |
+| [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom implementation of `printf` with variadic handling | ✅ Completed |
+| [push_swap](https://github.com/ruimouradev/push_swap) | Constrained sorting using two stacks with algorithmic optimization | ✅ Completed |
 
----
-
-## 🐍 42 Projects — Python
+### Python
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Algorithmic maze generator with visualization and configurable logic | ✅ Completed |
-| Fly-in | Multi-drone routing and constrained graph simulation system | 🚧 In progress |
+| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Algorithmic maze generator with configurable logic and visualization | ✅ Completed |
+| Fly-in | Multi-drone routing, scheduling, and constrained graph simulation | 🚧 In progress |
 
 ---
 
-### 📫 Connect with me
-Find me on [LinkedIn](https://www.linkedin.com/in/rui-moura/).
+## Current Focus
+
+- Algorithmic problem solving (LeetCode practice)  
+- Constrained graph traversal and simulation systems  
+- Optimization and scheduling under capacity constraints  
+- Foundations for AI and data-driven systems  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ruimouradev&show_icons=true&theme=github_dark&hide_border=true" alt="Rui's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/rui-moura/  
+- LeetCode: https://leetcode.com/u/ruimouradev/  
 
 ---
 
-<p align="center">
-  ⭐️ <em>"Understanding is not assumed — it is constructed."</em>
-</p>
+> Understanding is not assumed — it is constructed.
