@@ -1,56 +1,58 @@
-# Hi, I'm Rui Moura
+# 👋 Hi, I'm Rui Moura
 
-Student at 42 Lisboa with a background in Finance, currently transitioning into Software Engineering.
+🎓 Student at 42 Lisboa  
+📊 Background in Finance  
+💻 Transitioning into Software Engineering  
 
-I’m interested in systems that need to remain correct under constraints — from low-level memory and concurrency in C to simulation, optimization, and structured AI systems in Python.
+I’m drawn to problems with constraints:  
+memory limits, competing resources, scheduling decisions, synchronization, and systems that need to remain correct under pressure.
 
-My long-term focus is building reliable software foundations for AI and data-driven systems.
-
----
-
-## What I’m Working On
-
-- Strengthening low-level programming fundamentals in C
-- Deepening my understanding of concurrency, synchronization, and systems behavior
-- Practicing data structures and algorithms
-- Building simulation, routing, and optimization-focused projects in Python
-- Exploring LLM systems, structured outputs, and function-calling workflows
+That started with low-level C, evolved into simulation and optimization in Python, and is now extending into structured AI systems.
 
 ---
 
-## Projects
+## 🚀 What I'm Focused On
+
+- Low-level programming and systems thinking in **C**
+- Concurrency, synchronization, and resource coordination
+- Algorithms, simulations, and optimization in **Python**
+- Structured AI workflows with **LLM function calling** and constrained outputs
+
+---
+
+## 🛠 Featured Projects
 
 ### C
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ Completed |
-| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader | ✅ Completed |
-| [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom `printf` implementation | ✅ Completed |
-| [push_swap](https://github.com/ruimouradev/push_swap) | Constrained sorting with algorithmic optimization | ✅ Completed |
-| Codexion | Concurrency simulation with POSIX threads, mutexes, scheduling policies, and shared-resource arbitration | ✅ Completed *(public soon)* |
+| [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ |
+| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader | ✅ |
+| [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom `printf` implementation | ✅ |
+| [push_swap](https://github.com/ruimouradev/push_swap) | Sorting under strict operational constraints, with focus on efficiency | ✅ |
+| [Codexion](https://github.com/ruimouradev/Codexion) | Multithreaded resource-race simulation with mutexes, fairness rules, scheduling strategies, and burnout detection | ✅ |
 
 ### Python
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Configurable maze generator with visualization | ✅ Completed |
-| Fly-in | Capacity-constrained drone routing and scheduling simulation | ✅ Available |
-| Call Me Maybe | Function-calling system for LLMs with constrained decoding and schema-valid JSON generation | 🚧 In Progress |
+| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Configurable maze generator with visualization | ✅ |
+| [Fly-in](https://github.com/ruimouradev/Fly-in) | Capacity-constrained multi-drone routing and turn-based graph simulation in Python | ✅ |
+| [CallMeMaybe](https://github.com/ruimouradev/CallMeMaybe) | LLM function-calling system with constrained decoding, schema enforcement, and reliable structured outputs | 🚧 |
 
 ---
 
-## Current Technical Interests
+## 🧠 Areas I'm Exploring
 
-**Systems Programming** · **Concurrency** · **Algorithms** · **Optimization** · **Simulation** · **AI Tooling** · **Structured LLM Output**
+`C` `Python` `Concurrency` `Algorithms` `Optimization` `Simulation` `LLMs`
 
 ---
 
-## Connect
+## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rui-moura/)
 - [LeetCode](https://leetcode.com/u/ruimouradev/)
 
 ---
 
-> Building reliable systems, one constraint at a time.
+> I like building systems that don’t just work — they keep working under constraints.
