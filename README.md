@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Rui Moura
 
+![C](https://img.shields.io/badge/C-Systems-blue)
+![Python](https://img.shields.io/badge/Python-Simulation-yellow)
+![Concurrency](https://img.shields.io/badge/Concurrency-Threads-orange)
+![AI](https://img.shields.io/badge/AI-Structured%20Outputs-green)
+![42 Lisboa](https://img.shields.io/badge/42-Lisboa-black)
+
 🎓 Student at 42 Lisboa  
 📊 Background in Finance  
 💻 Transitioning into Software Engineering  
@@ -22,23 +28,33 @@ That started with low-level C, evolved into simulation and optimization in Pytho
 
 ## 🛠 Featured Projects
 
-### C
+<details open>
+  <summary><strong>C Projects</strong></summary>
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ |
-| [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader | ✅ |
-| [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom `printf` implementation | ✅ |
-| [push_swap](https://github.com/ruimouradev/push_swap) | Sorting under strict operational constraints, with focus on efficiency | ✅ |
-| [Codexion](https://github.com/ruimouradev/Codexion) | Multithreaded resource-race simulation with mutexes, fairness rules, scheduling strategies, and burnout detection | ✅ |
+  <br>
 
-### Python
+  | Project | Description | Status |
+  |--------|-------------|--------|
+  | [libft](https://github.com/ruimouradev/libft) | Reimplementation of core C standard library functions | ✅ |
+  | [get_next_line](https://github.com/ruimouradev/get_next_line) | Line-by-line file descriptor reader | ✅ |
+  | [ft_printf](https://github.com/ruimouradev/ft_printf) | Custom `printf` implementation | ✅ |
+  | [push_swap](https://github.com/ruimouradev/push_swap) | Sorting under strict operational constraints, with focus on efficiency | ✅ |
+  | [Codexion](https://github.com/ruimouradev/Codexion) | Multithreaded resource-race simulation with mutexes, fairness rules, scheduling strategies, and burnout detection | ✅ |
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Configurable maze generator with visualization | ✅ |
-| [Fly-in](https://github.com/ruimouradev/Fly-in) | Capacity-constrained multi-drone routing and turn-based graph simulation in Python | ✅ |
-| [CallMeMaybe](https://github.com/ruimouradev/CallMeMaybe) | LLM function-calling system with constrained decoding, schema enforcement, and reliable structured outputs | 🚧 |
+</details>
+
+<details open>
+  <summary><strong>Python Projects</strong></summary>
+
+  <br>
+
+  | Project | Description | Status |
+  |--------|-------------|--------|
+  | [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing) | Configurable maze generator with visualization | ✅ |
+  | [Fly-in](https://github.com/ruimouradev/Fly-in) | Capacity-constrained multi-drone routing and turn-based graph simulation in Python | ✅ |
+  | [CallMeMaybe](https://github.com/ruimouradev/CallMeMaybe) | LLM function-calling system with constrained decoding, schema enforcement, and reliable structured outputs | 🚧 |
+
+</details>
 
 ---
 
@@ -48,11 +64,24 @@ That started with low-level C, evolved into simulation and optimization in Pytho
 
 ---
 
-## 🌐 Connect
+## 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/rui-moura/)
-- [LeetCode](https://leetcode.com/u/ruimouradev/)
+![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruimouradev&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruimouradev&layout=compact)
 
 ---
 
-> I like building systems that don’t just work — they keep working under constraints.
+## 🌐 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rui-moura/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rui%20Moura-blue?logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/ruimouradev/">
+    <img src="https://img.shields.io/badge/LeetCode-ruimouradev-orange?logo=leetcode" />
+  </a>
+</p>
+
+---
+
+> Understanding is not assumed — it is constructed.
