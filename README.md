@@ -1,15 +1,5 @@
 # 👋 Hi, I'm Rui Moura
 
-![C](https://img.shields.io/badge/C-101010?style=for-the-badge&logoColor=white)
-![Systems](https://img.shields.io/badge/Systems-1f6feb?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3b3b3b?style=for-the-badge)
-![Simulation](https://img.shields.io/badge/Simulation-d4a017?style=for-the-badge)
-![Concurrency](https://img.shields.io/badge/Concurrency-2f2f2f?style=for-the-badge)
-![Threads](https://img.shields.io/badge/Threads-f28c28?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-2f2f2f?style=for-the-badge)
-![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-8db600?style=for-the-badge)
-![42 Lisboa](https://img.shields.io/badge/42-Lisboa-101010?style=for-the-badge)
-
 🎓 Student at 42 Lisboa  
 📊 Background in Finance  
 💻 Transitioning into Software Engineering  
