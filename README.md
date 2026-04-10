@@ -9,7 +9,6 @@
 ## 🚀 What I'm Focused On
 
 * Low-level programming in **C**
-* Concurrency and systems design
 * Algorithms and simulations in **Python**
 * Structured AI systems with constrained outputs
 
