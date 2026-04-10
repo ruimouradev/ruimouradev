@@ -4,11 +4,6 @@
 📊 Background in Finance
 💻 Transitioning into Software Engineering
 
-I’m drawn to problems with constraints:
-memory limits, competing resources, scheduling decisions, synchronization, and systems that need to remain correct under pressure.
-
-That started with low-level C, evolved into simulation and optimization in Python, and is now extending into structured AI systems.
-
 ---
 
 ## 🚀 What I'm Focused On
