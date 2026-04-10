@@ -9,8 +9,9 @@
 ## 🚀 What I'm Focused On
 
 * Low-level programming in **C**
-* Algorithms and simulations in **Python**
-* Structured AI systems with constrained outputs
+* Concurrency and systems design
+* Algorithms and simulation in **Python**
+* Structured AI systems
 
 ---
 
@@ -28,20 +29,13 @@
 
 ### Python
 
-| Project                                                   | Description                                                                                                | Status |
-| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------ |
-| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing)   | Configurable maze generator with visualization                                                             | ✅      |
-| [Fly-in](https://github.com/ruimouradev/Fly-in)           | Capacity-constrained multi-drone routing and turn-based graph simulation in Python                         | ✅      |
-| [CallMeMaybe](https://github.com/ruimouradev/CallMeMaybe) | LLM function-calling system with constrained decoding, schema enforcement, and reliable structured outputs | ✅      |
-
----
-
-## 🧪 In Progress
-
-| Project                 | Description                                                                                                  |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Pacman                  | Arcade game implementation with game loop, ghost behavior, scoring system, and configurable levels           |
-| RAG against the machine | End-to-end RAG pipeline: data ingestion, indexing, retrieval, and answer generation with evaluation metrics  |
+| Project                                                   | Description                                                                                                 | Status |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ |
+| [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing)   | Configurable maze generator with visualization                                                              | ✅      |
+| [Fly-in](https://github.com/ruimouradev/Fly-in)           | Capacity-constrained multi-drone routing and turn-based graph simulation in Python                          | ✅      |
+| [CallMeMaybe](https://github.com/ruimouradev/CallMeMaybe) | LLM function-calling system with constrained decoding, schema enforcement, and reliable structured outputs  | ✅      |
+| Pacman                                                    | Arcade game implementation with game loop, ghost behavior, scoring system, and configurable levels          | 🚧     |
+| RAG against the machine                                   | End-to-end RAG pipeline: data ingestion, indexing, retrieval, and answer generation with evaluation metrics | 🚧     |
 
 ---
 
@@ -53,16 +47,10 @@
 
 ## 🌐 Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rui-moura/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rui%20Moura-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/ruimouradev/">
-    <img src="https://img.shields.io/badge/LeetCode-ruimouradev-orange?logo=leetcode&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Moura-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rui-moura/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ruimouradev-orange?logo=leetcode\&logoColor=white)](https://leetcode.com/u/ruimouradev/)
+[![GitHub](https://img.shields.io/badge/GitHub-ruimouradev-black?logo=github\&logoColor=white)](https://github.com/ruimouradev)
 
 ---
 
 > Understanding is not assumed — it is constructed.
-
