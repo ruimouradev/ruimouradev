@@ -52,7 +52,7 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 
 ---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&langs_count=8&theme=tokyonight"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruimouradev&theme=tokyonight)
 
 ---
 
