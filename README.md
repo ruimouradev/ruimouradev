@@ -43,16 +43,16 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 
 ## Skills
 
-`C` `Python` `Concurrency` `Algorithms` `Docker` `LLMs` `RAG` `Agent Systems`
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruimouradev&show_icons=true&hide_border=true&rank_icon=github)
-
----
-
-## Connect
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ruimouradev&hide_border=true)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Moura-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-moura/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ruimouradev-orange?logo=leetcode&logoColor=white)](https://leetcode.com/u/ruimouradev/)
 [![GitHub](https://img.shields.io/badge/GitHub-ruimouradev-black?logo=github&logoColor=white)](https://github.com/ruimouradev)
