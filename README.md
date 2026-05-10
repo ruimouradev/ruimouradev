@@ -1,9 +1,7 @@
-<!-- HEADER WAVE COM NOME -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=160&section=header&text=Rui%20Moura&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+<h1 align="center">Rui Moura</h1>
 
-<!-- FRASES ANIMADAS -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00AEEF&size=18&center=true&vCenter=true&width=600&pause=1000&lines=C+Developer;Python+%2F+AI+Engineer;LLM+Tooling+Builder;Distributed+Systems+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00AEEF&size=18&center=true&vCenter=true&width=500&duration=3000&pause=800&lines=C+Developer;Python+%2F+AI+Engineer;LLM+Tooling+Builder;Distributed+Systems+Enthusiast" />
 </p>
 
 <p align="center">
@@ -76,6 +74,3 @@
 <a href="mailto:rui2103moura@gmail.com"><img src="https://img.shields.io/badge/Gmail-rui2103moura-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ruimouradev&style=flat-square&color=00AEEF)
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=80&section=footer"/>
