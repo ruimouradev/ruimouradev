@@ -59,3 +59,6 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Moura-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruimoura)
+[![Gmail](https://img.shields.io/badge/Gmail-contact-red?logo=gmail&logoColor=white)](mailto:rui2103moura@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=ruimouradev&style=flat-square&color=blue)
