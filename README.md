@@ -1,14 +1,24 @@
-# Rui Moura
+<!-- TÍTULO ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=32&center=true&vCenter=true&width=900&lines=Rui+Moura;Systems+Engineer;C+Developer;Python+%2F+AI+Engineer;LLM+Tooling+Builder;Distributed+Systems+Enthusiast" />
+</p>
 
+<!-- SEPARADOR ANIMADO -->
+<p align="center">
+  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+# Rui Moura  
 42 Lisboa · Building from the ground up
 
-I build systems from scratch — custom C libraries, concurrent simulations, AI pipelines. A background in finance sharpens how I think about correctness, edge cases, and failure modes.
+I build systems from scratch — custom C libraries, concurrent simulations, AI pipelines.  
+A background in finance sharpens how I think about correctness, edge cases, and failure modes.
 
 Currently focused on systems programming, LLM tooling, and distributed infrastructure.
 
 ---
 
-## Systems / C
+## 🧩 Systems / C
 
 | Project | Description |
 | --- | --- |
@@ -20,7 +30,7 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 
 ---
 
-## Python / AI
+## 🧠 Python / AI
 
 | Project | Description |
 | --- | --- |
@@ -32,7 +42,7 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 
 ---
 
-# In Progress
+## 🚧 In Progress
 
 | Project | Stack | Description |
 | --- | --- | --- |
@@ -41,7 +51,7 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 
 ---
 
-# Skills
+## 🛠️ Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,13 +62,24 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruimouradev&theme=tokyonight)
+<!-- STATS ANIMADOS -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruimouradev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruimouradev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimouradev&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## Contact
+## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Moura-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruimoura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rui%20Moura-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/rui-moura)  
 [![Gmail](https://img.shields.io/badge/Gmail-contact-red?logo=gmail&logoColor=white)](mailto:rui2103moura@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=ruimouradev&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ruimouradev&style=flat-square&color=blue" />
+</p>
+
