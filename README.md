@@ -34,8 +34,8 @@
 | [A-Maze-ing](https://github.com/ruimouradev/A-Maze-ing)   | Configurable maze generator with visualization                                                              | ✅      |
 | [Fly-in](https://github.com/ruimouradev/Fly-in)           | Capacity-constrained multi-drone routing and turn-based graph simulation in Python                          | ✅      |
 | [CallMeMaybe](https://github.com/ruimouradev/CallMeMaybe) | LLM function-calling system with constrained decoding, schema enforcement, and reliable structured outputs  | ✅      |
+| [RAG against the machine](https://github.com/ruimouradev/RAG) | End-to-end RAG pipeline: data ingestion, indexing, retrieval, and answer generation with evaluation metrics | ✅ |
 | Pacman                                                    | Arcade game implementation with game loop, ghost behavior, scoring system, and configurable levels          | 🚧     |
-| RAG against the machine                                   | End-to-end RAG pipeline: data ingestion, indexing, retrieval, and answer generation with evaluation metrics | 🚧     |
 
 ---
 
