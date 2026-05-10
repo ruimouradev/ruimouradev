@@ -41,17 +41,6 @@ Currently focused on systems programming, LLM tooling, and distributed infrastru
 
 ---
 
-# Interests
-
-- Concurrent systems
-- Runtime reliability
-- Distributed systems
-- LLM tooling
-- Infrastructure automation
-- Low-level optimization
-
----
-
 # Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
