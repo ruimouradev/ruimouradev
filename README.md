@@ -1,10 +1,9 @@
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=80&section=header"/>
+
 <!-- TÍTULO ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00AEEF&size=28&center=true&vCenter=true&width=900&lines=42+Lisboa+%C2%B7+Building+from+the+ground+up;C+Developer;Python+%2F+AI+Engineer;LLM+Tooling+Builder;Distributed+Systems+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00AEEF&size=22&center=true&vCenter=true&width=700&lines=C+Developer;Python+%2F+AI+Engineer;LLM+Tooling+Builder;Distributed+Systems+Enthusiast" />
 </p>
 
 <h1 align="center">Rui Moura</h1>
@@ -13,10 +12,6 @@
   I build systems from scratch — custom C libraries, concurrent simulations, AI pipelines.<br>
   A background in finance sharpens how I think about correctness, edge cases, and failure modes.<br><br>
   Currently focused on systems programming, LLM tooling, and distributed infrastructure.
-</p>
-
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ---
@@ -78,12 +73,11 @@
 
 ## 📬 Contact
 
-<p align="center">
-  <a href="https://linkedin.com/in/rui-moura"><img src="https://img.shields.io/badge/LinkedIn-Rui%20Moura-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ruimouradev/"><img src="https://img.shields.io/badge/LeetCode-ruimouradev-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:rui2103moura@gmail.com"><img src="https://img.shields.io/badge/Gmail-rui2103moura-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
+<a href="https://linkedin.com/in/rui-moura"><img src="https://img.shields.io/badge/LinkedIn-Rui%20Moura-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/ruimouradev/"><img src="https://img.shields.io/badge/LeetCode-ruimouradev-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="mailto:rui2103moura@gmail.com"><img src="https://img.shields.io/badge/Gmail-rui2103moura-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruimouradev&style=flat-square&color=00AEEF" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=ruimouradev&style=flat-square&color=00AEEF)
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00AEEF&height=80&section=footer"/>
