@@ -4,6 +4,16 @@
   Python / C / Go developer with a finance background, into systems programming.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+</p>
+
 ---
 
 ## 🧩 Systems / C
@@ -37,18 +47,6 @@
 | **Inception** | Docker | Production-style infrastructure stack using NGINX, TLS 1.2/1.3, WordPress, php-fpm, and MariaDB with isolated services, named volumes, and secrets management |
 | **TAP** | Go | Shared-world multiplayer text adventure (MUD): a line-based TCP server with two interchangeable clients (CLI and GUI), spanning rooms, items, NPCs, quests, and turn-based combat over a custom RFC-style protocol |
 | **Agent Smith** | Python | Agentic framework implementing a Thought → Code → Observation loop with sandboxed execution, MCP integration, and benchmarking on MBPP and SWE-bench |
-
----
-
-## 🛠️ Skills
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
