@@ -1,10 +1,6 @@
 <h1 align="center">Rui Moura</h1>
 
 <p align="center">
-  Python / C / Go developer with a finance background, into systems programming.
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
