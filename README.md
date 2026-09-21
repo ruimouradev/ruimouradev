@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Rui Moura</h1>
-  <p><strong>Software Engineer · Robotics & Embedded Systems · Finance & Operations background</strong></p>
+  <p><strong>Software Engineer · Finance & Operations background</strong></p>
   <p>
-    Software engineer with a background in finance and operations. Completed the <strong>42 Lisboa Common Core</strong> in 11 months
-    and joined <strong>SEA:ME</strong> as a software engineering intern, building robotics and mobility software on real hardware.
-    Before that, managed liquidity on bank treasury desks and ran production for a factory of 80 people,
-    automating manual work and turning operational problems into working tools.
+    Software engineer with a background in finance and operations. Completed the <strong>42 Lisboa Common Core</strong>,
+    building systems software in C, Go and Python. Before that, managed liquidity on bank treasury desks and ran
+    production for a factory of 80 people, automating manual work and turning operational problems into working tools.
   </p>
   <p>
     <a href="https://linkedin.com/in/rui-moura"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
