@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Rui Moura</h1>
-  <p><strong>Software Engineer · Finance & Operations background</strong></p>
+  <p><strong>Software Engineer · Embedded Systems · Finance & Operations background</strong></p>
   <p>
     Software engineer with a background in finance and operations. Completed the <strong>42 Lisboa Common Core</strong>,
     building systems software in C, Go and Python. Before that, managed liquidity on bank treasury desks and ran
