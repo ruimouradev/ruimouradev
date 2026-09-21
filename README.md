@@ -34,11 +34,13 @@
 ### 🌟 Highlighted Projects
 
 #### 🃏 [ft_transcendence](https://github.com/ruimouradev/ft_transcendence)
-> Real-time multiplayer Uno web app. Team of 4, role: Project Manager.
+> Real-time multiplayer Uno web app. Team of 4.
 
 * Built the game core: a server-side rules engine that validates every move, so clients only ever see what they are allowed to see.
 * Designed the typed wire protocol between server and browser over WebSockets.
 * Built the monitoring stack: Prometheus metrics, Grafana dashboards and alert rules.
+* Tested the whole app end to end and tracked down bugs across the team's code.
+* Organised the team and kept everyone on the plan we had agreed.
 * **Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 
 <br>
