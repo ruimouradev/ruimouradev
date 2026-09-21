@@ -33,13 +33,6 @@
 
 ---
 
-### 🏆 Competitions
-
-- **Winner · CORE-ET Model Porting Hackathon** (AIFoundry × Hugging Face × OpenHW, Jul 2026) — Ported YOLOv10n to the ET-SoC1 RISC-V board and cut inference from 721s to 7.96s (about 90x) at full FP32 correctness: convolutions split across 16 harts, 1x1 and depthwise convolutions and SiLU on the vector unit. [Repository](https://github.com/ruimouradev/hf-hackathon)
-- **Winner · 42 Portugal Coding Challenge "Python Pit"** (Aug 2026) — Tron-style arena bot in Python. Won the Lisbon bracket, then the final against Porto. [Repository](https://github.com/ruimouradev/Coding-Challenge---Python-Pit)
-
----
-
 ### 🌟 Highlighted Projects
 
 #### 🃏 [ft_transcendence](https://github.com/ruimouradev/ft_transcendence)
@@ -91,7 +84,6 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :---: |
-| [**Inception**](https://github.com/ruimouradev/Inception) | Production-style Docker stack: NGINX with TLS, WordPress via php-fpm, MariaDB, Redis, FTP, Adminer and Portainer, each in its own Alpine container with secrets and isolated volumes. | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" /> |
 | [**Codexion**](https://github.com/ruimouradev/Codexion) | pthread concurrency simulation: mutex ordering, fairness scheduling and starvation prevention under timing deadlines. | <img src="https://img.shields.io/badge/C-POSIX%20Threads-A8B9CC?style=flat-square&logo=c&logoColor=white" /> |
 | [**Pacman**](https://github.com/ruimouradev/Pacman) | Arcade game with configurable levels, BFS-driven ghost AI and persistent highscores. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
 | [**A-Maze-ing**](https://github.com/ruimouradev/A-Maze-ing) | Maze generation and pathfinding toolkit. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
